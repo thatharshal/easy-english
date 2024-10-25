@@ -6620,7 +6620,7 @@ const words = [
     },
     {
         "english": "eighteen",
-        "pronunciation": "एटीं",
+        "pronunciation": "एटीन",
         "breakdown": "ए (e) + आई (i) + ट (t) + ई (i) + न (n)",
         "translation": "अठारह"
     },
@@ -7430,7 +7430,7 @@ const words = [
     },
     {
         "english": "island",
-        "pronunciation": "आइसलैंड",
+        "pronunciation": "आइलैंड",
         "breakdown": "आ (a) + आई (i) + स (s) + ल (l) + ए (e) + न (n) + ड (d)",
         "translation": "द्वीप"
     },
@@ -9045,7 +9045,7 @@ const words = [
     },
     {
         "english": "require",
-        "pronunciation": "रिपॉयर",
+        "pronunciation": "रिक्‍वायर,
         "breakdown": "र (r) + इ (i) + क (k) + व (v) + आ (a) + य (y) + र (r)",
         "translation": "आवश्यकता"
     },
@@ -9282,12 +9282,6 @@ const words = [
         "pronunciation": "सेवरल",
         "breakdown": "स (s) + ए (e) + व (v) + र (r) + अ (a) + ल (l)",
         "translation": "कई"
-    },
-    {
-        "english": "Sex",
-        "pronunciation": "सेक्स",
-        "breakdown": "स (s) + ए (e) + क (k) + स (s)",
-        "translation": "लिंग"
     },
     {
         "english": "Shade",
