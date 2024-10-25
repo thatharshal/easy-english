@@ -6620,7 +6620,7 @@ const words = [
     },
     {
         "english": "eighteen",
-        "pronunciation": "एटीन",
+        "pronunciation": "एटीं",
         "breakdown": "ए (e) + आई (i) + ट (t) + ई (i) + न (n)",
         "translation": "अठारह"
     },
@@ -7430,7 +7430,7 @@ const words = [
     },
     {
         "english": "island",
-        "pronunciation": "आइलैंड",
+        "pronunciation": "आइसलैंड",
         "breakdown": "आ (a) + आई (i) + स (s) + ल (l) + ए (e) + न (n) + ड (d)",
         "translation": "द्वीप"
     },
@@ -9045,7 +9045,7 @@ const words = [
     },
     {
         "english": "require",
-        "pronunciation": "रिक्‍वायर,
+        "pronunciation": "रिपॉयर",
         "breakdown": "र (r) + इ (i) + क (k) + व (v) + आ (a) + य (y) + र (r)",
         "translation": "आवश्यकता"
     },
