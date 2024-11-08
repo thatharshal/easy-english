@@ -29,7 +29,7 @@ The app is super user-friendly and made for Hindi speakers. You’ll find:
 If you’ve got ideas or want to help out, feel free to jump in! I’d love to hear your thoughts, whether it’s reporting bugs or suggesting new features.
 
 **License**  
-This project is open-source and under the MIT License, so feel free to play around with it!
+This project is open-source, so feel free to play around with it!
 
 
 **Let’s Connect**  
