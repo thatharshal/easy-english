@@ -1,4 +1,4 @@
-// Sample data (you can load this from a data.txt file if needed)
+// The data
 const sentences = [
     {
         "english": "Good morning!",
@@ -11215,7 +11215,7 @@ const words = [
         "translation": "शिक्षक"
     }
 ];
- // Retrieve indexes from localStorage (or start at 0 if not set)
+ // To get  indexes from localStorage (or start at 0 if not set)
  let currentSentenceIndex = localStorage.getItem('sentenceIndex') ? parseInt(localStorage.getItem('sentenceIndex')) : 0;
  let currentWordIndex = localStorage.getItem('wordIndex') ? parseInt(localStorage.getItem('wordIndex')) : 0;
 
